@@ -1,6 +1,6 @@
-#Code Link:- https://www.codingninjas.com/codestudio/problem-details/duplicate-in-array_893397
+//Code Link:- https://www.codingninjas.com/codestudio/problem-details/duplicate-in-array_893397
 
-#Solution:-
+//Solution:-
 
 int findDuplicate(vector<int> &arr) 
 {

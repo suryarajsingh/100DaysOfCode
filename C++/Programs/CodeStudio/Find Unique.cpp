@@ -1,6 +1,6 @@
-#Code Link:- https://www.codingninjas.com/codestudio/problems/find-unique_625159
+//Code Link:- https://www.codingninjas.com/codestudio/problems/find-unique_625159
 
-#Solution:-
+//Solution:-
 
 int findUnique(int *arr, int size)
 {

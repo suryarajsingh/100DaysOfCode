@@ -1,6 +1,6 @@
-#Code Link https://www.codingninjas.com/codestudio/problems/pair-sum_697295#:~:text=Each%20pair%20should%20be%20sorted,second%20value%20should%20come%20first.
+//Code Link https://www.codingninjas.com/codestudio/problems/pair-sum_697295#:~:text=Each%20pair%20should%20be%20sorted,second%20value%20should%20come%20first.
 
-#Solution
+//Solution
 
 vector<vector<int>> pairSum(vector<int> &arr, int s){
    // Write your code here.
